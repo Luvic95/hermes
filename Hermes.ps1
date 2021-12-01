@@ -82,7 +82,7 @@ Write-Host ""
 while($true){ 
 
 
-$option = Read-Host -Prompt "[Hermes trismegistus]:"
+$option = Read-Host -Prompt "[Hermes Trismegistus]:"
 
 
 if ($option -eq "exit"){ exit }
